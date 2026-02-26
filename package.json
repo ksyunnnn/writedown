@@ -23,6 +23,9 @@
   "repository": "https://github.com/ksyunnnn/writedown",
   "author": "ksyunnnn <is.syunsukekobashi@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
